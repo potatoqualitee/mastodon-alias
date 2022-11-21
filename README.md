@@ -1,0 +1,2 @@
+# masto-alias
+ 
