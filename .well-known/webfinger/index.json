@@ -1,0 +1,24 @@
+{
+    "subject": "acct:dbatools@fosstodon.org",
+    "aliases": [
+        "https://fosstodon.org/@dbatools",
+        "https://fosstodon.org/users/dbatools",
+        "dbatools@fosstodon.org"
+    ],
+    "links": [
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://fosstodon.org/@dbatools"
+        },
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://fosstodon.org/users/dbatools"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://fosstodon.org/authorize_interaction?uri={uri}"
+        }
+    ]
+}
